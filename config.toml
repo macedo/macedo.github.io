@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://macedo.github.io"
+base_url = "https://rafaelmacedo.com"
 
 title = "Rafael Macedo"
 description = "Rafael Macedo visit card"
