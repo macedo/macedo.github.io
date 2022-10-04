@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://rafaelmacedo.com"
+base_url = "https://macedo.github.io"
 
 title = "Rafael Macedo"
 description = "Rafael Macedo visit card"
@@ -26,4 +26,4 @@ twitter_username = "macedorafaelf"
 github_username =  "macedo"
 
 # Google-analytics
-# google_analytics.id = ""
+google_analytics.id = "G-BMZRXDZNT4"
